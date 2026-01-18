@@ -1,2 +1,0 @@
-# RDED
-DDD
